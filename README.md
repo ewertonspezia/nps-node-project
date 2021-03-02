@@ -1,3 +1,5 @@
+O Projeto consiste em um sistema de cálculo de NPS para avaliação de algum serviço ou produto de uma empresa. O mesmo foi desenvolvido durante a NLW4.
+
 # Configurações Iniciais
 
 ## NodeJS Server Start
