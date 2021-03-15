@@ -20,7 +20,7 @@ Ferramenta para customização do formulário
 
 `Handlebars`
 
-Ferramenta para gerenciar as validações
+Ferramentas para gerenciar as validações
 
 `Yup`
 
